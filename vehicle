@@ -1,0 +1,28 @@
+Inheritance is used to inherit the attributes and methods of the parent class from the child class by using the keyword extends.
+Encapsulation: Hiding attributes by using private access modifier and using getter() and setter() methods to access the attributes.
+Polymorphism method Overriding: Process of declaring a method in the child class that is already existed in the parent class so that the child class can have its own implementation.
+	Method Overriding - the methods will have the same signature
+	
+Ploymorphism method Overloading - 
+	Method Overloading - Apart from having different parameters from 2 or more methods, the method signature will be the same.
+
+Abstraction is used to create class that cannot be instantiated. Along with inheritance the child class will be forced to override the abstract methods from the parent class.
+	Abstract classes can have both abstract and non-abstract methods.
+
+Super keyword is used to represent the parent class object from the child class.
+	
+A *VehicleType* can transport *transporting* number of passengers at
+a maximum speed of *maxSpeed*. The maximum loading capacity of a 
+*VehicleType* is *maxSpeed*.A *VehicleType* have the safety 
+features like *safetyFeatures*
+
+Inheritance Done
+Polymorphism Method overloading Done
+Polymorphism Method overriding Done
+Encapsulation Done
+Abstraction Done
+Interface No
+Enum Done
+ArrayList Done
+File 
+super keyword
